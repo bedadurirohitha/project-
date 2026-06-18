@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-import ProductCard from '../components/ProductCard'
+import ProductCard from '../components/Productcard'
 
 const Products = ({ addToCart }) => {
 
